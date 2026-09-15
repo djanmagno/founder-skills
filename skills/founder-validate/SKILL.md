@@ -11,7 +11,7 @@ It does not invent interviews, customers, quotes, or metrics. It does not treat 
 
 ## When to use it / when not to
 
-Use it for idea with no product, ready product with no commercial validation, or when existing "validation" is only stated intent. Use it when the founder is about to build because they are excited, not because a named customer has a named problem. Do not use it to audit the codebase (`founder-product-audit`), to pick alternatives and an offer (`founder-positioning`), to package and price (`founder-pricing`), or to specify engineering (`founder-mvp`). Do not use it as a substitute for `founder-first-customers` once the hypothesis is specific enough to sell — interviews are not a pipeline.
+Use it for idea with no product, ready product with no commercial validation, or when existing "validation" is only stated intent. Use it when the founder is about to build because they are excited, not because a named customer has a named problem. Do not use it to audit the codebase (`founder-product-audit`), to pick alternatives and an offer (`founder-positioning`), to package and price (`founder-pricing`), or to specify engineering (`founder-mvp`). Do not use it as a substitute for `founder-first-customers` once the hypothesis is specific enough to sell — interviews are not a pipeline. If real code or a real prototype already exists and hasn't gone through `founder-product-audit` yet, run that first, even briefly — even when the founder's message already summarizes what's built, a summary is not the same as classifying each capability as implemented, verified, or still a hypothesis. Don't skip straight to a demand-validation motion just because the founder's own account of their code sounds complete.
 
 ## Minimum required context
 
