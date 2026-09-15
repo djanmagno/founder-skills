@@ -9,7 +9,7 @@ Turns "we need more customers" into one budgeted channel experiment at a time: w
 
 ## When to use it / when not to
 
-Use it for: happy customers with no repeatable acquisition, consistent retention that needs a second channel, or a founder choosing between channels (outbound, content, partnerships, paid, community, marketplace) with limited money and time.
+Use it for: happy customers with no repeatable acquisition, consistent retention that needs a second channel, or a founder choosing between channels (outbound, content, partnerships, paid, community platforms like Reddit, organic social / building in public, AI-answer-engine visibility, marketplace) with limited money and time.
 
 Do not use it when paying customers are churning — retention and acquisition are separate problems with separate causes, and pouring acquisition on top of churn hides the leak while burning effort and reputation. Route that to `founder-retention` first and say why. Do not use it when signups arrive but never activate — that's `founder-activation`. Do not use it for one-by-one prospecting of named buyers with personal outreach — that's `founder-first-customers`. Growth starts where those leave off: a channel that could repeatably bring the next hundred, not the next three.
 
