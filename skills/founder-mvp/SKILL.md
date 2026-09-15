@@ -13,7 +13,7 @@ Use it when a hypothesis exists and the founder is choosing what to build, shrin
 
 ## Minimum required context
 
-The hypothesis and current evidence from `.founder/context.md` and `.founder/experiments.md`. Product map if `.founder/product-map.md` exists — do not rebuild what is already verified. If the hypothesis is missing, route to `founder-validate` or `founder-start` instead of inventing a build.
+The hypothesis and current evidence from `.founder/context.md` and `.founder/experiments.md`. Product map if `.founder/product-map.md` exists — do not rebuild what is already verified. If the hypothesis is missing, route to `founder-validate` or `founder-start` instead of inventing a build. If the evidence includes people or accounts who did **not** convert or renew alongside the ones who did, treat that gap as a data point worth a quick look before scoping — silence on why some didn't stick is easy to drop when the founder's own framing only mentions the wins.
 
 ## Procedure
 
