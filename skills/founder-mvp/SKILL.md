@@ -29,6 +29,8 @@ The hypothesis and current evidence from `.founder/context.md` and `.founder/exp
 
 3. **If a product change is required, shrink it to the experiment.** Scope is the capabilities the named user must touch to complete the test. Everything else is out. Use the product map's three states: don't re-implement the implemented; don't treat hypothesis screens as done.
 
+   Make the shrinking concrete, not aspirational: write down the specific list of what's in scope before building, so it isn't relitigated feature-by-feature mid-build; put a real deadline on it (days to a few weeks, not "when it's ready"); and for anything on the list, ask whether the named user genuinely cannot complete the test without it — cut everything that fails that test, even if it feels incomplete. The version that ships is going to look crude and is going to change once real use shows what's actually needed; that's the point, not a flaw to fix before showing anyone.
+
 4. **Log the commercial experiment first** in `.founder/experiments.md`:
 
    ```markdown

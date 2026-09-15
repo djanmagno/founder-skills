@@ -62,4 +62,9 @@ Add a row here whenever a skill (Task 3–6) or an eval (Task 7) is written usin
 
 | Skill / eval | Source consulted | Commit / date | Note |
 |---|---|---|---|
-| _pending_ | | | |
+| `founder-pricing` | gbrain transcript: [Startup Business Models and Pricing](https://www.youtube.com/watch?v=oWZbWzAyHAE) (already listed in "Transcripts consulted" above) | 2026-09-16 | Synthesized: charge (most founders undercharge), price on value not cost, keep packaging simple, price isn't permanent (raise later, grandfather or give notice) |
+| `founder-pricing` | [Are you leaving too much money on the table?](https://knowledge.gtmstrategist.com/p/are-you-leaving-too-much-money-on) (fetched and read directly, not via gbrain) | 2026-09-16 | Synthesized: prefer a real usage-based "value metric" over a flat fee where one exists; a small pricing improvement typically outweighs an equivalent acquisition effort |
+| `founder-first-customers` | gbrain transcript: [How to Get Your First 10 Customers](https://www.youtube.com/watch?v=_FBivfgOvuE) (already listed in "Transcripts consulted" above, as "First 10 Customers") | 2026-09-16 | Synthesized: source customers 1–3 from the personal network, 4–10 from unscalable manual tactics, scalable tooling only after ~10–20; pick the channel the buyer actually uses before defaulting to email/LinkedIn |
+| `founder-mvp` | gbrain transcript: [How To Build An MVP](https://www.youtube.com/watch?v=qRZ_l7CVzZU) (already listed in "Transcripts consulted" above) | 2026-09-16 | Synthesized: set a real deadline, write the in-scope list down before building, cut anything the named user doesn't strictly need to complete the test, don't get attached to the first version |
+
+Note: the `sellsuccessfully.io` GTM checklist remains unverified per the earlier fetch attempt (see "Documents provided by the user" above); `web.archive.org` URLs (used for some Marketing-for-Founders pricing links) could not be fetched by this session's tooling and were not consulted directly — only their live, non-archived counterparts were, where available.
