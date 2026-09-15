@@ -6,26 +6,26 @@ Per `docs/PLAN.md` §7. Records what was consulted, at what depth, and any known
 
 | Source | Use | Commit / version consulted | Depth | Known limitation |
 |---|---|---|---|---|
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Structure, composition, specs, tickets, engineering complement | _pending_ | Connection-point files only (`to-spec`, `to-tickets`) | Full catalog not read; other skills in that package unverified |
-| [obra/superpowers](https://github.com/obra/superpowers) | Design, planning, implementation, verification | _pending_ | Connection-point files only (`writing-plans`) | Full catalog not read |
-| [garrytan/gstack](https://github.com/garrytan/gstack) | Strategy, design, QA, delivery | _pending_ | Connection-point files only (`office-hours`, `qa-only`, `ship`) | Full catalog not read |
-| [EdoStra/Marketing-for-Founders](https://github.com/EdoStra/Marketing-for-Founders) | Customer research, channels, launch, positioning, first users | _pending_ | Read for synthesis, not copied | Licensed CC BY-SA — do not mix verbatim into MIT content, see CONTRIBUTING.md |
-| [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | `saas-mvp-launcher` reference | _pending — confirm current location, original repo may have moved/redirected_ | Reference only | Location unconfirmed as of initial plan; verify before citing further |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Structure, composition, specs, tickets, engineering complement | Verified reachable 2026-09-15 | Connection-point files only (`to-spec`, `to-tickets`) | Full catalog not read; other skills in that package unverified |
+| [obra/superpowers](https://github.com/obra/superpowers) | Design, planning, implementation, verification | Verified reachable 2026-09-15 | Connection-point files only (`writing-plans`) | Full catalog not read |
+| [garrytan/gstack](https://github.com/garrytan/gstack) | Strategy, design, QA, delivery | Verified reachable 2026-09-15 | Connection-point files only (`office-hours`, `qa-only`, `ship`) | Full catalog not read |
+| [EdoStra/Marketing-for-Founders](https://github.com/EdoStra/Marketing-for-Founders) | Customer research, channels, launch, positioning, first users | Verified reachable 2026-09-15 | Read for synthesis, not copied | Licensed CC BY-SA (LICENSE.md content confirmed 2026-09-15) — do not mix verbatim into MIT content, see CONTRIBUTING.md |
+| [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) | `saas-mvp-launcher` reference | Verified reachable 2026-09-15 | Reference only | This is the canonical repo name. `sickn33/antigravity-awesome-skills`, used in earlier drafts of this project, is a stale name — GitHub confirms the repo was renamed; that URL now redirects here. Use `agentic-awesome-skills` everywhere in this repo. |
 
 ### Especially relevant files
 
-- Matt — [to-spec](https://github.com/mattpocock/skills/blob/main/skills/engineering/to-spec/SKILL.md), [to-tickets](https://github.com/mattpocock/skills/blob/main/skills/engineering/to-tickets/SKILL.md) — both require explicit invocation; do not call automatically.
-- Superpowers — [writing-plans](https://github.com/obra/superpowers/blob/main/skills/writing-plans/SKILL.md) — receives commercial context, produces the technical plan in its own format.
-- gstack — [office-hours](https://github.com/garrytan/gstack/blob/main/office-hours/SKILL.md), [qa-only](https://github.com/garrytan/gstack/blob/main/qa-only/SKILL.md) (report only, no fixes), [ship](https://github.com/garrytan/gstack/blob/main/ship/SKILL.md) (commits + push + PR; production deploy is separate).
-- [SaaS MVP Launcher](https://github.com/sickn33/agentic-awesome-skills/blob/main/skills/saas-mvp-launcher/SKILL.md)
+- Matt — [to-spec](https://github.com/mattpocock/skills/blob/main/skills/engineering/to-spec/SKILL.md), [to-tickets](https://github.com/mattpocock/skills/blob/main/skills/engineering/to-tickets/SKILL.md) — both require explicit invocation; do not call automatically. Exact paths confirmed 2026-09-15.
+- Superpowers — [writing-plans](https://github.com/obra/superpowers/blob/main/skills/writing-plans/SKILL.md) — receives commercial context, produces the technical plan in its own format. Exact path confirmed 2026-09-15.
+- gstack — [office-hours](https://github.com/garrytan/gstack/blob/main/office-hours/SKILL.md), [qa-only](https://github.com/garrytan/gstack/blob/main/qa-only/SKILL.md) (report only, no fixes), [ship](https://github.com/garrytan/gstack/blob/main/ship/SKILL.md) (commits + push + PR; production deploy is separate). Exact paths confirmed 2026-09-15.
+- [SaaS MVP Launcher](https://github.com/sickn33/agentic-awesome-skills/blob/main/skills/saas-mvp-launcher/SKILL.md) — exact path confirmed 2026-09-15 under the canonical repo name.
 
 ## Documents provided by the user
 
-- [YC Startup Library](https://startup-library.ycombinator.com)
-- [YC Library](https://www.ycombinator.com/library)
-- [AO Network — GTM Launch Checklist](https://aonetwork.com/templates/gtm-launch-checklist-template)
-- [Code & Tell — SaaS Launch Checklist](https://codeandtell.com/blog/saas-launch-checklist)
-- [Sell Successfully — B2B SaaS GTM Checklist](https://sellsuccessfully.io/blog/go-to-market-checklist-saas-launch/)
+- ~~[YC Startup Library](https://startup-library.ycombinator.com)~~ — **dead link (NXDOMAIN), confirmed 2026-09-15.** This subdomain no longer resolves; do not cite it. Use YC Library below instead.
+- [YC Library](https://www.ycombinator.com/library) — verified reachable 2026-09-15.
+- [AO Network — GTM Launch Checklist](https://aonetwork.com/templates/gtm-launch-checklist-template) — verified reachable 2026-09-15; content confirmed to match (60-item, 8-section B2B SaaS GTM checklist).
+- [Code & Tell — SaaS Launch Checklist](https://codeandtell.com/blog/saas-launch-checklist) — verified reachable 2026-09-15; content confirmed to match (47-item SaaS launch checklist).
+- [Sell Successfully — B2B SaaS GTM Checklist](https://sellsuccessfully.io/blog/go-to-market-checklist-saas-launch/) — **not verified.** Fetch attempts on 2026-09-15 timed out (looks like anti-bot blocking, not a confirmed 404) — treat as unconfirmed, neither dead nor validated, until someone checks it in a real browser.
 
 The briefing that seeded this project also mentions *The Mom Test*, general interview practice, and the Superhuman product-market-fit case as relevant reading. **Full texts of those were not provided and have not been read** — do not present them elsewhere in this repo as sources that were actually consulted.
 
@@ -52,9 +52,9 @@ The briefing that seeded this project also mentions *The Mom Test*, general inte
 
 ## Format, attribution, packaging
 
-- [Agent Skills — specification](https://agentskills.io/specification)
-- [Skills CLI — install](https://www.skills.sh/docs/cli)
-- [Marketing-for-Founders — license](https://github.com/EdoStra/Marketing-for-Founders/blob/main/LICENSE.md) (CC BY-SA)
+- [Agent Skills — specification](https://agentskills.io/specification) — verified reachable 2026-09-15, content confirmed to match (frontmatter and packaging rules).
+- [Skills CLI — install](https://www.skills.sh/docs/cli) — verified reachable 2026-09-15, content confirmed to match (`npx skills add` docs).
+- [Marketing-for-Founders — license](https://github.com/EdoStra/Marketing-for-Founders/blob/main/LICENSE.md) (CC BY-SA) — content downloaded and confirmed CC BY-SA 4.0 on 2026-09-15.
 
 ## Implementation-time additions
 
