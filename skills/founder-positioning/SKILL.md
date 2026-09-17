@@ -23,7 +23,7 @@ User, buyer, and problem from `.founder/context.md`, plus whatever **Evidence** 
 
 3. **Differentiate only on what the buyer cares about.** Difference that does not change the job, the risk, or the cost of switching is not positioning. Prefer a difference you can show in a conversation or a concierge delivery over a difference that requires a rebuild. Do not recommend a rewrite so the product can "position upmarket."
 
-4. **Write the offer as a sentence a buyer could reject.** Who it is for, the problem, the outcome, the form (manual service, product, hybrid), and who it is not for. Keep claims inside verified capabilities plus honest hypotheses — mark hypotheses as such. Generate customer-facing wording in the user's language; keep this skill's own files in English.
+4. **Write the offer as a sentence a buyer could reject.** Who it is for, the problem, the outcome, the form (manual service, product, hybrid), and who it is not for. Keep claims inside verified capabilities plus honest hypotheses — mark hypotheses as such. Generate customer-facing wording in the user's language.
 
 5. **Check the offer against the situation.** Ready product with no commercial validation still needs demand evidence — a sharper sentence does not replace `founder-validate`. Free users with no conversion may be an offer/pricing problem, not a feature problem. Happy customers with no repeatable acquisition may need this offer made repeatable in `founder-first-customers` / `founder-growth`, not a new product story.
 

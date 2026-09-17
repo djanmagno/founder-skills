@@ -15,7 +15,7 @@ Do not use it to discover willingness to pay — that's `founder-pricing` (this 
 
 ## Minimum required context
 
-`.founder/context.md` (customers, prices, constraints), `.founder/pricing.md` if it exists, and the raw money facts: who has paid what, on what cadence, plus current cash and current costs. Precision is welcome; honesty is required — "rough monthly costs, exact cash unknown until I check" is workable, invented MRR is not. If the founder cannot separate one-off project money from subscription money yet, that separation is step 1.
+`.founder/context.md` (customers, prices, constraints), `.founder/pricing.md` if it exists, and the raw money facts: who has paid what, on what cadence, plus current cash and current costs. "Rough monthly costs, exact cash unknown until I check" is workable, invented MRR is not. If the founder cannot separate one-off project money from subscription money yet, that separation is step 1.
 
 ## Procedure
 

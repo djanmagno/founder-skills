@@ -84,7 +84,7 @@ Do not use it when nobody is arriving at all — with no signups there is no fun
 
 ## Judging results / routing the next action
 
-The work succeeds if a higher share of arriving users reaches first value within the observation window — and if users who reach it go on to convert, pay, or return at a visibly higher rate than those who don't. It fails if signups grew but activation didn't (that's acquisition, not activation), if the funnel numbers were invented, or if the "fix" was a feature list.
+The work succeeds if the first-value definition is specific enough to be checked, the drop-off step is named from real behavior rather than guessed, and the logged experiment has a step-completion metric an observation window can actually read — whether that window ends up showing a lift is for `founder-review` to read, not something this skill can know in-session. It fails if signups grew but activation didn't (that's acquisition, not activation), if the funnel numbers were invented, or if the "fix" was a feature list.
 
 Route from what the window actually showed:
 - Users reach value but don't pay → `founder-pricing`.

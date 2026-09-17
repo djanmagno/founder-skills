@@ -7,8 +7,6 @@ description: Map what a founder's product actually does — implemented flows, v
 
 Produces a product map of what exists today: the user/buyer flows, the capabilities behind them, and — for each — whether it is implemented, verified to work, or still a commercial hypothesis wearing a feature's clothes. If code is present, it inspects the code. Technical blockers are listed only when they stop a named business experiment, not because the stack is unfashionable.
 
-It does not prove demand. A built product is not commercial validation.
-
 ## When to use it / when not to
 
 Use it when something already exists (partial prototype, shipped product, or a real concierge process that *is* the product) and the next decision depends on knowing what is real. Do not use it on an idea with no product — that is `founder-validate`. Do not use it to choose the smallest experiment or to write the engineering change; map the product, then hand the experiment to `founder-mvp`. Do not treat "the code is messy" as a reason to run this skill, or as a reason to rebuild.

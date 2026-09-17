@@ -7,7 +7,7 @@ description: Diagnose a solo founder or small bootstrapped SaaS team's current b
 
 Understands where a specific business actually is — not a generic startup stage label, but the real mix of evidence, product state, and constraints — and names one main obstacle and one next experiment. It persists that understanding so the founder doesn't have to re-explain their business every session, and it hands off to whichever of the other 13 founder-skills skills fits that obstacle.
 
-It is a diagnosis and a router, not a doer. The actual work of validating demand, pricing, launching, and so on happens in the skill it routes to.
+It is a diagnosis and a router, not a doer.
 
 ## When to use it / when not to
 
@@ -19,7 +19,7 @@ None required to start — this skill's job is to build the context. If `.founde
 
 ## Procedure
 
-1. **Check for existing context.** Look for `.founder/context.md` or a workspace convention the founder has already established (per `docs/PLAN.md` §6, reuse what exists rather than imposing `.founder/`). If found, summarize it back briefly and ask only what's changed, rather than re-running the full interview.
+1. **Check for existing context.** Look for `.founder/context.md` or a workspace convention the founder has already established — reuse what exists rather than imposing `.founder/`. If found, summarize it back briefly and ask only what's changed, rather than re-running the full interview.
 
 2. **Discover the business, without assuming a stack.** Ask about, or infer from available material:
    - What the founder is trying to achieve.
@@ -31,7 +31,7 @@ None required to start — this skill's job is to build the context. If `.founde
 
 3. **If code exists, inspect it — but hand the deep dive to `founder-product-audit` if the codebase is nontrivial.** For a quick look, distinguish three things explicitly: what's implemented, what's actually been verified to work, and what's still a commercial hypothesis dressed up as a feature. A built product proves none of demand, retention, or growth by itself.
 
-4. **Name the situation** using the vocabulary from `docs/PLAN.md` §2 (situations can coexist — pick the ones that actually apply, don't force a single label):
+4. **Name the situation** (situations can coexist — pick the ones that actually apply, don't force a single label):
    - idea with no product
    - problem validated through manual/concierge delivery
    - partial prototype needing adjustments
@@ -44,7 +44,7 @@ None required to start — this skill's job is to build the context. If `.founde
    - consistent acquisition and retention, seeking expansion
    - need to reposition, pivot, or kill a hypothesis
 
-5. **Name the main obstacle and the next experiment** — singular, not a laundry list. If several situations coexist, pick the one that's actually blocking progress right now, and say why the others aren't the priority yet. Resist recommending a rebuild just because the product lacked traction, or more acquisition just because churn is high — those are default wrong answers the diagnosis exists to prevent (`docs/PLAN.md` §2 principles).
+5. **Name the main obstacle and the next experiment** — singular, not a laundry list. If several situations coexist, pick the one that's actually blocking progress right now, and say why the others aren't the priority yet. Resist recommending a rebuild just because the product lacked traction, or more acquisition just because churn is high — those are default wrong answers the diagnosis exists to prevent.
 
 6. **Detect installed complements without installing anything — and without over-claiming.** Check whether Matt Pocock Skills, Superpowers, or gstack are available to use *for this founder's project* — the project's own available-skills listing, an installed-skills directory inside the project or its host tool's project-scoped config, or the founder telling you directly. Do not treat a package installed somewhere on the operator's machine generally (a global plugin cache, a user-level config unrelated to this project) as "present" for this business — a complement genuinely available in one project is not automatically available in another, and reporting it as present when you only found it by scanning outside the project's own scope is exactly the kind of invented evidence this library exists to prevent. If you can't positively confirm a complement is available *for this project*, record it as "not detected" or "unknown," never as present. Record what's actually detected and, if the founder has already been using one of them for technical work, note that as their standing preference — re-check only on a material change or conflict, not every session.
 
@@ -98,11 +98,11 @@ None required to start — this skill's job is to build the context. If `.founde
 
 The diagnosis is working if the founder recognizes their situation in it and the named obstacle explains why past efforts (if any) haven't worked — not just a generic label. If the founder pushes back that the diagnosis doesn't match reality, that's signal to gather more evidence, not to argue for the original diagnosis.
 
-Route to the skill whose primary deliverable matches the named obstacle (see the catalog table in `docs/PLAN.md` §3 / the repo README). When situations coexist, route to the earliest unresolved one in the natural sequence (validate → position/price → build → launch → activate → retain → grow → economics/pivot) unless the founder has a specific reason to work out of order.
+Route to the skill whose primary deliverable matches the named obstacle. When situations coexist, route to the earliest unresolved one in the natural sequence (validate → position/price → build → launch → activate → retain → grow → economics/pivot) unless the founder has a specific reason to work out of order.
 
 ## Working with no complements installed
 
-Nothing about this skill depends on Matt Pocock Skills, Superpowers, or gstack. Complement detection in step 6 simply records "none detected" and every downstream skill proceeds on its self-contained path.
+Complement detection in step 6 simply records "none detected" and every downstream skill proceeds on its self-contained path.
 
 ## Complement integration
 

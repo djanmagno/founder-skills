@@ -19,7 +19,7 @@ Do not use it when paying customers are churning — retention and acquisition a
 
 ## Procedure
 
-1. **Confirm retention is not the real problem.** Before any channel work, write one paragraph: what is known about churn and renewal, and why acquisition (not retention) is the current constraint. If that paragraph can't be written honestly — cancellations unexplained, renewals wobbling — route to `founder-retention` instead and say so. This check is not a formality; it is the guardrail this library promises (see `docs/PLAN.md` §2 principles).
+1. **Confirm retention is not the real problem.** Before any channel work, write one paragraph: what is known about churn and renewal, and why acquisition (not retention) is the current constraint. If that paragraph can't be written honestly — cancellations unexplained, renewals wobbling — route to `founder-retention` instead and say so. This check is not a formality.
 
 2. **Narrow to one channel and one audience slice.** From the buyer definition, pick a single channel to test (one outbound motion, one content bet, one partnership, one paid experiment — never three at once) and the specific slice of buyer it should reach. Justify the choice in two lines: why this channel could plausibly reach this buyer, and what has to be true for it to work. A solo founder's time is the scarcest budget — a channel that needs full-time operation to show signal is the wrong first test regardless of its theoretical ceiling.
 

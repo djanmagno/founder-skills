@@ -24,8 +24,6 @@ The experiment being reviewed: `.founder/experiments.md` (or `.founder/experimen
    - **Commercial window still open** — the metric has not been read yet. Status stays **running**. A ship during an open window is not a conclusion.
    - **Commercial metric observed** — the window ended and the evidence section can be filled with what actually happened (including "nothing happened" and "unknown").
 
-   Technical delivery is not commercial validation. A completed build does not close the commercial experiment by itself.
-
 3. **Fill Evidence only with observations.** Counts, quotes, payments, cancellations, usage — only if they occurred. If the metric is unknown, write "unknown." Do not estimate to make the entry look complete. Do not upgrade stated intent to commitment, a trial to payment, or one payment to recurring use.
 
 4. **Read churn and traction with the right next skill in mind.** If the evidence is paying customers with weak activation or high churn, the problem is retention/activation, not acquisition. Do **not** default to "get more customers," `founder-growth`, or more top-of-funnel. If the evidence is happy customers with no repeatable acquisition, do not pivot the product without cause. If the evidence is published product with no acquisition or interest, do not increase ads without a hypothesis.

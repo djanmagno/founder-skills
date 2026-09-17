@@ -29,7 +29,7 @@ Do not use it to review one experiment's window — that's `founder-review`, whi
 
    Do not merge reposition into pivot or soften shut-down into "pause and hope." Each option gets its own paragraph with its own required evidence.
 
-3. **Decide from the evidence, in the open.** For each option, write which evidence supports it and which contradicts it — including the emotional and sunk-cost pressures, named as pressures rather than hidden inside "strategic" language. The founder decides; the skill makes the trade legible. A rebuild recommendation is allowed only if the evidence shows the product (not the thesis) blocks a direction the evidence otherwise supports — never "rebuild because traction was weak" (see `docs/PLAN.md` §2 principles).
+3. **Decide from the evidence, in the open.** For each option, write which evidence supports it and which contradicts it — including the emotional and sunk-cost pressures, named as pressures rather than hidden inside "strategic" language. The founder decides; the skill makes the trade legible. A rebuild recommendation is allowed only if the evidence shows the product (not the thesis) blocks a direction the evidence otherwise supports — never "rebuild because traction was weak."
 
 4. **Preserve history — never delete or rewrite it.** The decision is recorded by **adding a new entry** to `.founder/experiments.md` and **marking the superseded entry (or entries) superseded**, with the evidence that changed the founder's mind. Prior entries stay intact: their hypotheses, actions, and evidence are not edited to flatter the new direction.
 
@@ -82,7 +82,7 @@ Route from the decision:
 
 ## Working with no complements installed
 
-Nothing here needs any complement. The evidence trail, the four-option comparison, and the history-preserving log entries are all plain writing from files the founder already has.
+The evidence trail, the four-option comparison, and the history-preserving log entries are all plain writing from files the founder already has.
 
 ## Complement integration
 
