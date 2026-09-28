@@ -1,6 +1,6 @@
 ---
 name: founder-launch
-description: Size a launch to the actual product and audience — readiness, materials, channels, and follow-through — for a solo founder or small bootstrapped B2B SaaS, not a Series B go-to-market. Use this when the founder asks "are we ready to launch," "write a launch checklist," "where should we announce," or has a published product with no acquisition or interest and wants a first telling. Do not use it for founder-led selling of the first named accounts (founder-first-customers), for ongoing acquisition experiments (founder-growth), or to treat shipping/launch day as commercial validation (founder-review).
+description: Size a launch to the actual product and audience — readiness, materials, channels, and follow-through — for a solo founder or small bootstrapped B2B SaaS, not a Series B go-to-market. Use this when the founder asks "are we ready to launch," "write a launch checklist," "where should we announce," or has a published product with no acquisition or interest and wants a first telling. Do not use it for founder-led selling of the first named accounts (founder-first-customers), for ongoing acquisition experiments (founder-growth), to treat shipping/launch day as commercial validation (founder-review), or to decide ownership, choose the license posture, or draft the license, terms, and privacy note (founder-ship-clearance, founder-license-choice, founder-launch-papers).
 ---
 
 ## What this skill does
@@ -9,7 +9,7 @@ Produces a launch that is proportional to who will actually hear it and what the
 
 ## When to use it / when not to
 
-Use it when there is something to show a bounded audience (manual service, prototype, or shipped product) and the founder needs to tell that audience once, on purpose. Do not use it as an excuse to skip `founder-validate` on an idea with no product. Do not use it in place of `founder-first-customers` when the work is one-to-one outreach. Do not use it in place of `founder-growth` when the work is repeatable channel tests with budget. Do not apply a company-wide GTM checklist sized for a funded multi-team launch to a founder's first ten users.
+Use it when there is something to show a bounded audience (manual service, prototype, or shipped product) and the founder needs to tell that audience once, on purpose. Do not use it as an excuse to skip `founder-validate` on an idea with no product. Do not use it in place of `founder-first-customers` when the work is one-to-one outreach. Do not use it in place of `founder-growth` when the work is repeatable channel tests with budget. Do not use it to decide whether the founder may license the product or to draft the license, terms, and privacy note. Do not apply a company-wide GTM checklist sized for a funded multi-team launch to a founder's first ten users.
 
 ## Minimum required context
 
@@ -19,7 +19,7 @@ Use it when there is something to show a bounded audience (manual service, proto
 
 1. **Size the launch to the audience that is real.** First ten users, a community the founder already belongs to, existing waiters, a partner's list — those are different launches from "Product Hunt plus PR plus ads." Write the intended audience as a number and a source the founder can actually reach. If that source is "everyone on the internet," shrink it.
 
-2. **Readiness is whether the named customer can get the promised value, not whether the checklist is long.** Ask only:
+2. **Readiness is whether the named customer can get the promised value, not whether the checklist is long.** If this launch gives someone a build or collects personal data, `founder-ship-clearance` and `founder-license-choice` come first, then the writing skill that choice names. A missing choice is not an invitation to assume an evaluation grant. A clearance of consent or blocked, or papers that are not drafted, means this skill plans the audience and stops before publishing. Ask only:
    - Can a user in **Who** complete the job the offer promises (implemented + verified, or an honest concierge)?
    - Can we observe the commercial metric we will care about after launch?
    - Are publishing, contact, spend, and production authorized for the steps we intend?
@@ -99,6 +99,7 @@ Use it when there is something to show a bounded audience (manual service, proto
 Success: a launch a solo founder can finish this week, with a metric that can fail. Failure: a Series-B checklist, invented traction in the copy, deploy-as-validation, or "we need more customers" as the answer to silence or to churn.
 
 Route:
+- A build or personal data would go out, and clearance, the license posture, or the papers are missing → `founder-ship-clearance`, then `founder-license-choice`, then the writer it names.
 - Not ready to deliver the job → `founder-product-audit` / `founder-mvp`.
 - Nobody specific to tell → `founder-validate` / `founder-first-customers`.
 - One-to-one selling is the real work → `founder-first-customers`.

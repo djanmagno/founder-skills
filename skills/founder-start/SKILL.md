@@ -5,7 +5,7 @@ description: Diagnose a solo founder or small bootstrapped SaaS team's current b
 
 ## What this skill does
 
-Understands where a specific business actually is — not a generic startup stage label, but the real mix of evidence, product state, and constraints — and names one main obstacle and one next experiment. It persists that understanding so the founder doesn't have to re-explain their business every session, and it hands off to whichever of the other 13 founder-skills skills fits that obstacle.
+Understands where a specific business actually is — not a generic startup stage label, but the real mix of evidence, product state, and constraints — and names one main obstacle and one next experiment. It persists that understanding so the founder doesn't have to re-explain their business every session, and it hands off to whichever of the other founder-skills skills fits that obstacle.
 
 It is a diagnosis and a router, not a doer.
 
@@ -98,7 +98,7 @@ None required to start — this skill's job is to build the context. If `.founde
 
 The diagnosis is working if the founder recognizes their situation in it and the named obstacle explains why past efforts (if any) haven't worked — not just a generic label. If the founder pushes back that the diagnosis doesn't match reality, that's signal to gather more evidence, not to argue for the original diagnosis.
 
-Route to the skill whose primary deliverable matches the named obstacle. When situations coexist, route to the earliest unresolved one in the natural sequence (validate → position/price → build → launch → activate → retain → grow → economics/pivot) unless the founder has a specific reason to work out of order.
+Route to the skill whose primary deliverable matches the named obstacle. When situations coexist, route to the earliest unresolved one in the natural sequence (validate → position/price → build → clear and paper a handoff to outsiders → launch → activate → retain → grow → economics/pivot) unless the founder has a specific reason to work out of order. A founder who is about to send a build or collect personal data goes to `founder-ship-clearance`, then `founder-license-choice`, then the writing skill that choice names, before `founder-launch` publishes anything. An announcement with no ownership question and no personal data does not take that detour. A license that is already chosen does not get re-picked.
 
 ## Working with no complements installed
 

@@ -26,7 +26,7 @@ git clone https://github.com/djanmagno/founder-skills.git
 
 Each skill in `skills/<name>/SKILL.md` is also installable on its own — no skill in this library depends on files that live only at the repo root.
 
-## The 14 skills
+## The skills
 
 A single guided entry point, `founder-start`, diagnoses your business and routes you to the right next skill. Every skill below also works standalone, even if you never run `founder-start`.
 
@@ -39,6 +39,10 @@ A single guided entry point, `founder-start`, diagnoses your business and routes
 | `founder-pricing` | Price hypotheses, packaging, commercial tests |
 | `founder-mvp` | Smallest useful experiment and the product changes it requires |
 | `founder-first-customers` | Prospects, outreach, discovery, demo, proposal |
+| `founder-ship-clearance` | Whether the founder can license the product to outsiders |
+| `founder-license-choice` | Which posture fits: closed, evaluation, commercial, or open |
+| `founder-closed-license` | All-rights-reserved file: no use, copy, or clone without a written grant |
+| `founder-launch-papers` | License, terms, privacy, and third-party notices for that handoff |
 | `founder-launch` | Launch readiness, materials, channels, follow-through |
 | `founder-activation` | First value, drop-off diagnosis, onboarding |
 | `founder-retention` | Cohorts, cancellations, renewal, expansion |

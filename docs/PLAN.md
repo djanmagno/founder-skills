@@ -135,6 +135,19 @@ A guided entry identifies the main obstacle and routes onward. Each skill also w
 | `founder-pivot` | Compare persist, reposition, pivot, or shut down | Decide from evidence while preserving history |
 | `founder-review` | Results review and next cycle | Update decisions and choose the next experiment |
 
+### Launch handoff (added 2026-09-29)
+
+The 14-skill v1 catalog above stays the commercial sequence. Two later skills sit in front of `founder-launch` when a build or personal data would leave the founder's machines:
+
+| Skill | Primary deliverable | Responsibility |
+|---|---|---|
+| `founder-ship-clearance` | A clear / consent / blocked note from the agreements on file | Whether this founder can grant a license |
+| `founder-license-choice` | One posture: closed, evaluation, commercial, or open | What a stranger may do, before any license file is written |
+| `founder-closed-license` | A license file that grants nothing | Stop use, copy, and clone until a written grant exists |
+| `founder-launch-papers` | Draft license, terms, privacy, and third-party notices | Papers that match the offer outsiders will actually receive |
+
+They do not replace positioning, pricing, or the launch experiment. Sources and the skills that were read and rejected are in `docs/SOURCES.md`.
+
 ### Contract for every skill
 
 Each skill will have:
